@@ -13,3 +13,26 @@ func main() {
 
 	fmt.Println("defer end")
 }
+
+var {
+	valueByKey = make(map[string]int)
+	valueByKeyGuard sync.Mutex
+}
+
+func readValue(key string) int {
+	valueByKeyGuard.Lock()
+
+	v := valueByKey[key]
+
+	valueByKeyGuard.Unlock()
+
+	return v
+}
+
+func readValueDefer(key string) int {
+	valueByKeyGuard.Lock()
+
+	 defer valueByKeyGuard.Unlock()
+
+	return valueByKey[key]
+}
