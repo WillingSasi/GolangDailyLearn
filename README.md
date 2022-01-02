@@ -6,3 +6,6 @@ todo list：
  2. 基础语法学习中
 
 学习地址：http://c.biancheng.net/view/5568.html
+
+2022/1/2 Done Go语言数据I/O对象及操作-Read
+http://c.biancheng.net/view/5569.html
