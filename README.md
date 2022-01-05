@@ -9,3 +9,6 @@ todo list：
 
 2022/1/2 Done Go语言数据I/O对象及操作-Read
 http://c.biancheng.net/view/5569.html
+
+2022/1/5 Done Go语言排序（借助sort.Interface接口）
+http://c.biancheng.net/view/81.html
