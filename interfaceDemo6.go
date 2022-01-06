@@ -39,4 +39,32 @@ func main() {
 	for _, v := range name {
 		fmt.Printf("%s\n", v)
 	}
+
+	names := sort.StringSlice{
+		"3. Triple Kill",
+		"5. Penta Kill",
+		"2. Double Kill",
+		"4. Quadra Kill",
+		"1. First Blood",
+	}
+
+	sort.Sort(names)
+
+	for _, v := range names {
+		fmt.Printf("%s\n", v)
+	}
+
+	namess := []string{
+		"3. Triple Kill",
+		"5. Penta Kill",
+		"2. Double Kill",
+		"4. Quadra Kill",
+		"1. First Blood",
+	}
+
+	sort.Strings(namess)
+
+	for _, v := range namess {
+		fmt.Printf("%s\n", v)
+	}
 }

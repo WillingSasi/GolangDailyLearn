@@ -12,3 +12,6 @@ http://c.biancheng.net/view/5569.html
 
 2022/1/5 Done Go语言排序（借助sort.Interface接口）
 http://c.biancheng.net/view/81.html
+
+2022/1/6 Go语言接口的嵌套组合
+http://c.biancheng.net/view/82.html
