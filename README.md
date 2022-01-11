@@ -18,3 +18,6 @@ http://c.biancheng.net/view/82.html
 
 2022/1/9 Go语言error接口：返回错误信息
 http://c.biancheng.net/view/4284.html
+
+2022/1/11 Go语言包的基本概念
+http://c.biancheng.net/view/5394.html
