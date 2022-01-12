@@ -21,3 +21,6 @@ http://c.biancheng.net/view/4284.html
 
 2022/1/11 Go语言包的基本概念
 http://c.biancheng.net/view/5394.html
+
+2022/1/12 Go语言GOPATH详解
+http://c.biancheng.net/view/88.html
