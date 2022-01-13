@@ -24,3 +24,6 @@ http://c.biancheng.net/view/5394.html
 
 2022/1/12 Go语言GOPATH详解
 http://c.biancheng.net/view/88.html
+
+2022/1/14 Go语言sync包与锁 读写锁
+http://c.biancheng.net/view/4307.html
