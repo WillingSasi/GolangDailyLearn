@@ -9,10 +9,11 @@ import (
 var m sync.RWMutex
 
 func main() {
-	go write(1)
 	go read(2)
+	go write(1)
+
 	go write(3)
-	time.Sleep(2 * time.Second)
+	time.Sleep(5 * time.Second)
 }
 
 func read(i int) {
