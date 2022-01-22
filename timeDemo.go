@@ -20,4 +20,11 @@ func main() {
 
 	fmt.Println(time.Now().Unix())
 	fmt.Println(time.Now().UnixNano())
+
+	timestamp := now.Unix()
+	timeObj := time.Unix(timestamp, 0)
+	fmt.Println(timeObj)
+	fmt.Println(timeObj.Year())
+
+	fmt.Println(now.Weekday().String())
 }
