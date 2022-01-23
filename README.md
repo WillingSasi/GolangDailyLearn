@@ -40,4 +40,5 @@ http://c.biancheng.net/view/5392.html
 2022/1/22 Go语言os包用法简述
 http://c.biancheng.net/view/5572.html
 
-2022/1/23
+2022/1/23 Go语言并发，Golang并发
+http://c.biancheng.net/golang/concurrent/
