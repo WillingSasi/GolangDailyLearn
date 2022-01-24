@@ -42,3 +42,6 @@ http://c.biancheng.net/view/5572.html
 
 2022/1/23 Go语言并发，Golang并发
 http://c.biancheng.net/golang/concurrent/
+
+2022/1/24 Go语言竞争状态简述
+http://c.biancheng.net/view/4358.html
