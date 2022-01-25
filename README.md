@@ -45,3 +45,6 @@ http://c.biancheng.net/golang/concurrent/
 
 2022/1/24 Go语言竞争状态简述
 http://c.biancheng.net/view/4358.html
+
+2022/1/25 Go语言GOMAXPROCS（调整并发的运行性能）
+http://c.biancheng.net/view/94.html
