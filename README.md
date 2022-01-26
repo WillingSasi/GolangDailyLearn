@@ -48,3 +48,6 @@ http://c.biancheng.net/view/4358.html
 
 2022/1/25 Go语言GOMAXPROCS（调整并发的运行性能）
 http://c.biancheng.net/view/94.html
+
+2022/1/26 Go语言单向通道
+http://c.biancheng.net/view/99.html
