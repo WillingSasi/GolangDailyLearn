@@ -57,3 +57,6 @@ http://c.biancheng.net/view/100.html
 
 2022/1/28 Go语言互斥锁（sync.Mutex）和读写互斥锁（sync.RWMutex）
 http://c.biancheng.net/view/107.html
+
+2022/1/29 Go语言CSP：通信顺序进程简述
+http://c.biancheng.net/view/5111.html
